@@ -1,0 +1,121 @@
+﻿Country ,City,Year,Users (Millions)
+India,Delhi,2010,16
+India,Delhi,2015,23
+India,Delhi,2020,34
+India,Delhi,2025,50
+India,Mumbai,2010,14
+India,Mumbai,2015,20
+India,Mumbai,2020,29
+India,Mumbai,2025,42
+India,Bangalore,2010,11
+India,Bangalore,2015,16
+India,Bangalore,2020,23
+India,Bangalore,2025,33
+India,Chennai,2010,10
+India,Chennai,2015,15
+India,Chennai,2020,22
+India,Chennai,2025,31
+India,Kolkata,2010,12
+India,Kolkata,2015,18
+India,Kolkata,2020,26
+India,Kolkata,2025,38
+USA,New York,2010,18
+USA,New York,2015,25
+USA,New York,2020,34
+USA,New York,2025,46
+USA,Los Angeles,2010,16
+USA,Los Angeles,2015,22
+USA,Los Angeles,2020,30
+USA,Los Angeles,2025,41
+USA,Chicago,2010,13
+USA,Chicago,2015,18
+USA,Chicago,2020,25
+USA,Chicago,2025,34
+USA,Houston,2010,12
+USA,Houston,2015,17
+USA,Houston,2020,23
+USA,Houston,2025,31
+USA,Phoenix,2010,11
+USA,Phoenix,2015,16
+USA,Phoenix,2020,22
+USA,Phoenix,2025,30
+China,Beijing,2010,20
+China,Beijing,2015,28
+China,Beijing,2020,40
+China,Beijing,2025,57
+China,Shanghai,2010,18
+China,Shanghai,2015,25
+China,Shanghai,2020,35
+China,Shanghai,2025,50
+China,Guangzhou,2010,15
+China,Guangzhou,2015,21
+China,Guangzhou,2020,29
+China,Guangzhou,2025,41
+China,Shenzen,2010,14
+China,Shenzen,2015,20
+China,Shenzen,2020,28
+China,Shenzen,2025,39
+China,Chengdu,2010,13
+China,Chengdu,2015,18
+China,Chengdu,2020,25
+China,Chengdu,2025,34
+Brazil,Sao Paulo,2010,12
+Brazil,Sao Paulo,2015,17
+Brazil,Sao Paulo,2020,24
+Brazil,Sao Paulo,2025,33
+Brazil,Rio de Janeiro,2010,10
+Brazil,Rio de Janeiro,2015,14
+Brazil,Rio de Janeiro,2020,20
+Brazil,Rio de Janeiro,2025,27
+Brazil,Brasilia,2010,9
+Brazil,Brasilia,2015,13
+Brazil,Brasilia,2020,18
+Brazil,Brasilia,2025,25
+Brazil,Salvador,2010,8
+Brazil,Salvador,2015,12
+Brazil,Salvador,2020,17
+Brazil,Salvador,2025,23
+Brazil,Fortaleza,2010,7
+Brazil,Fortaleza,2015,11
+Brazil,Fortaleza,2020,15
+Brazil,Fortaleza,2025,21
+UK,London,2010,14
+UK,London,2015,19
+UK,London,2020,26
+UK,London,2025,35
+UK,Birmingham,2010,11
+UK,Birmingham,2015,15
+UK,Birmingham,2020,21
+UK,Birmingham,2025,28
+UK,Manchester,2010,10
+UK,Manchester,2015,14
+UK,Manchester,2020,19
+UK,Manchester,2025,25
+UK,Glasgow,2010,9
+UK,Glasgow,2015,13
+UK,Glasgow,2020,17
+UK,Glasgow,2025,23
+UK,Liverpool,2010,8
+UK,Liverpool,2015,12
+UK,Liverpool,2020,16
+UK,Liverpool,2025,21
+Australia,Sydney,2010,10
+Australia,Sydney,2015,14
+Australia,Sydney,2020,19
+Australia,Sydney,2025,26
+Australia,Melbourne,2010,9
+Australia,Melbourne,2015,13
+Australia,Melbourne,2020,17
+Australia,Melbourne,2025,23
+Australia,Brisbane,2010,8
+Australia,Brisbane,2015,12
+Australia,Brisbane,2020,16
+Australia,Brisbane,2025,21
+Australia,Perth,2010,7
+Australia,Perth,2015,11
+Australia,Perth,2020,15
+Australia,Perth,2025,20
+Australia,Adelaide,2010,6
+Australia,Adelaide,2015,10
+Australia,Adelaide,2020,14
+Australia,Adelaide,2025,19
